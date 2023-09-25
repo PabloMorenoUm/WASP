@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeChannelAPI", "YoutubeChannelAPI\YoutubeChannelAPI.csproj", "{E1C5D5F1-2DFC-4625-8BB9-81C05341E417}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WASP", "WASP\WASP.csproj", "{E1C5D5F1-2DFC-4625-8BB9-81C05341E417}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeChannelAPITest", "YoutubeChannelAPITest\YoutubeChannelAPITest.csproj", "{F5FAD11D-8C45-455F-94DB-BE1D20A353D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WASPTest", "WASPTest\WASPTest.csproj", "{F5FAD11D-8C45-455F-94DB-BE1D20A353D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

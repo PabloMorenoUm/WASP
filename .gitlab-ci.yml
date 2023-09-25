@@ -6,7 +6,7 @@ stages:
   - release
 
 variables:
-  path: "YoutubeChannelAPI"
+  path: "WASP"
   ASPNETCORE_ENVIRONMENT: "Development"
   
 before_script:
@@ -41,6 +41,6 @@ release-dotnet:
       - publish/
   script:
     - "ls"
-    - "dotnet publish -c Release -o ./publish YoutubeChannelAPI/YoutubeChannelAPI.csproj"
+    - "dotnet publish -c Release -o ./publish WASP/WASP.csproj"
     - "ls"
   environment: production
