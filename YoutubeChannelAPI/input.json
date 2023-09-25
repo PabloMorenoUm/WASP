@@ -1,0 +1,5 @@
+﻿{
+  "YoutubeChannel": {
+    "Database": "Server=(localdb)\\mssqllocaldb;Database=YoutubeChannel;Trusted_Connection=True;MultipleActiveResultSets=true"
+  }
+}
